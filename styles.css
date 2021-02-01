@@ -27,20 +27,17 @@ p {
   font-family: "Montserrat", sans-serif;
 }
 .top-container {
-  padding-top: 100px;
-  position: relative;
   background-color: #e4f9f5;
 }
 
 .top-cloud {
-  position: absolute;
-  right: 200px;
-  top: 50px;
+  margin-top: 1%;
+  margin-left: 60%;
 }
 .bottom-cloud {
-  left: 200px;
-  bottom: 300px;
+  margin-right: 60%;
 }
+
 .skills h2 {
   color: #b1f7f7;
   padding-top: 30px;
@@ -75,9 +72,6 @@ hr {
   padding: 5% 0px;
   text-align: right;
 }
-.img-mountain {
-  width: 100%;
-}
 
 .book-gif {
   padding-left: 5%;
@@ -89,7 +83,6 @@ hr {
     width: 100%;
   }
   .code-gif {
-    padding-right: 5%;
     width: 100%;
   }
   .code-skill-description-1 {
