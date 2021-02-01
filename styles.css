@@ -26,6 +26,10 @@ p {
   color: #11999e;
   font-family: "Montserrat", sans-serif;
 }
+.img-mountain {
+  width: 50%;
+  margin: auto auto;
+}
 .top-container {
   background-color: #e4f9f5;
 }
