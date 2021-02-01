@@ -9,7 +9,7 @@ body {
 h1 {
   font-size: 5.625rem;
   font-family: "Sacramento", cursive;
-  margin: 50px auto 0 auto;
+  margin: 35px auto 0 auto;
   color: #66bfbf;
 }
 h2 {
@@ -27,8 +27,7 @@ p {
   font-family: "Montserrat", sans-serif;
 }
 .img-mountain {
-  width: 50%;
-  margin: auto auto;
+  width: 40%;
 }
 .top-container {
   background-color: #e4f9f5;
@@ -95,6 +94,9 @@ hr {
   }
   .code-skill-description-2 {
     text-align: center;
+  }
+  .img-mountain {
+    width: 100%;
   }
 }
 .profile {
